@@ -54,8 +54,6 @@ pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 PyWavelets==1.1.1
-pywin32>=270
-pywinpty==0.5.7
 pyzmq==20.0.0
 requests==2.25.0
 scikit-image==0.17.2
