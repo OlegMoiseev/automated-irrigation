@@ -1,5 +1,6 @@
 from flask import Flask, request, abort, jsonify, render_template
 
+
 app = Flask(__name__,
             static_folder='./static',
             template_folder='./templates')
